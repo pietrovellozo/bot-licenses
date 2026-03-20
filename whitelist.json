@@ -1,0 +1,11 @@
+{
+  "whitelist": [
+    "Trip Macaco",
+    "Nick 2",
+    "Nick 3",
+    "Nick 4"
+  ],
+  "version": 1,
+  "updated": "2026-03-20T10:30:00Z",
+  "description": "Lista de nicknames autorizados para usar este bot"
+}
